@@ -220,7 +220,7 @@ footer{
 }
 
 
-@media (max-width: 694px){
+@media (max-width: 600px){
     .left> :nth-child(1){
         font-size: 36px;
         font-weight: bold;
@@ -257,7 +257,7 @@ footer{
     }
 }
 
-@media (min-width: 695px) and (max-width: 1140px) {
+@media (min-width: 601px) and (max-width: 1140px) {
     .content {
         max-width: 60vw;
         margin: auto;
