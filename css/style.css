@@ -255,6 +255,9 @@ footer{
         padding: 5px;
         text-align: justify;
     }
+    .newsletter input {
+        padding: 10px 100px 10px 20px;
+    }
 }
 
 @media (min-width: 601px) and (max-width: 1140px) {
