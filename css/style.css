@@ -58,7 +58,7 @@ nav {
   
   /* Add an active class to highlight the current page */
   .topnav a.active {
-    background-color: blue;
+    background-color: rgba(0, 0, 255, 0.763);
     /* background-color: #04AA6D; */
     color: white;
   }
